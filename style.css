@@ -1,0 +1,66 @@
+#login{
+    height: 500px;
+    width: 700px;
+    background-color: silver;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 200px;
+    padding-top: 50px;
+}
+
+
+#registration{
+    height: 500px;
+    width: 700px;
+    background-color: silver;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 200px;
+    padding-top: 50px;
+}
+#logintable{
+    margin: auto;
+    padding-top: 60px;
+}
+
+input{
+    height: 30px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+
+th{
+    font-weight: bold;
+}
+
+/* #loginheader{
+    margin-left: 320px;
+    padding-top: 50px;
+} */
+
+#registrationheader{
+    margin-left: 320px;
+}
+
+#logindiv{
+height: 40px;
+
+text-align: center;
+
+
+}
+
+#registratondiv{
+    height: 40px;
+
+    text-align: center;
+
+}
