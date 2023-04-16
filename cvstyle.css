@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(75, 72, 72);
+}
+
+#maindiv{
+    height: 850px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+
+}
+
+#leftdiv{
+    height: 850px;
+    width: 40%;
+    background-color: silver;
+
+}
+
+#picdiv{
+    height: 250px;
+    margin-top: 50px;
+}
+
+#myimage{
+    height: 250px;
+}
+
+#rightdiv{
+    height: 850px;
+    width: 70%;
+    background-color: white;
+}
+
+#nameprofessionaltitlediv{
+    height: 150px;
+    background-color: rgb(85, 85, 188);
+    margin-top: 70px;
+    padding-top: 30px;
+}
+
+#nameprodiv{
+    width:60% ;
+    margin: auto;
+    text-align: center;
+}
