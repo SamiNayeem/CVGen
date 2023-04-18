@@ -3,7 +3,7 @@ body{
 }
 
 #maindiv{
-    height: 900px;
+    height: 950px;
     width: 700px;
     background-color: white;
     margin: auto;
@@ -12,7 +12,7 @@ body{
 }
 
 #leftdiv{
-    height: 900px;
+    height: 950px;
     width: 30%;
     background-color: silver;
 
@@ -28,7 +28,7 @@ body{
 }
 
 #rightdiv{
-    height: 900px;
+    height: 950px;
     width: 70%;
     background-color: white;
 }
@@ -80,7 +80,7 @@ margin-right: 5px;
 }
 
 #rightmaindiv{
-    height: 900px;
+    height: 950px;
     margin-left: 10px;
 
 }
@@ -88,6 +88,7 @@ margin-right: 5px;
 #contacttable{
     align-items: left;
     text-align: left;
+    border-spacing: 0cap;
 }
 /* td{
     border: 3px solid black;
@@ -97,4 +98,12 @@ margin-right: 5px;
 .aboutmeworkexperience{
     margin-right: 10px;
     text-align: justify;
+}
+
+.workexptd{
+    width: 85px;
+}
+
+table{
+    border-spacing: 0px;
 }
